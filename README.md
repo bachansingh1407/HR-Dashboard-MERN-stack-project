@@ -1,7 +1,7 @@
 # HRMS Dashboard - MERN Stack
 
 ## Project Overview
-The HRMS (Human Resource Management System) Dashboard is a full-stack web application built using the MERN (MongoDB, Express.js, React, and Node.js) stack. This project was developed as a part of the hiring process for PSQUARE COMPANY. The application provides authentication, candidate management, employee management, attendance management, and leave management, following the provided Figma design.
+The HRMS (Human Resource Management System) Dashboard is a full-stack web application built using the MERN (MongoDB, Express.js, React, and Node.js) stack. The application provides authentication, candidate management, employee management, attendance management, and leave management, following the provided Figma design.
 
 ---
 
